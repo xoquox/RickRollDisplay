@@ -1,0 +1,5 @@
+#define HOSTNAME_ESP "ESP-RickRollDisplay"
+
+const char* ssid     = "YOUR OWN SSID";
+const char* password = "YOUR GOD DAMN WLAN PASSWORD";
+const char* mqttHost = "YOUR OWN MQTT HOST";
